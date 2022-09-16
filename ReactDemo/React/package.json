@@ -6,7 +6,7 @@
   "author": "Emil Werner",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "chai": "^4.1.2",
     "css-loader": "^0.28.0",
     "enzyme": "^2.0.0",
